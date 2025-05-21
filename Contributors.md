@@ -77,7 +77,7 @@
  - [Daniel](https://github.com/dbcode1)
  - [James]
  - [Martín Ocampo](https://github.com/PzykoEich)
- -[NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
+ - [NotIshaan - Ishaan Bhadrike] (https://github.com/NotIshaan)
  - [Neel Bhattacharya](https://github.com/Neel-max-cpu)
  -[FluffySce - Farhan Khan](https://github.com/FluffySce)
  -[Cat Young](https://github.com/CatYoung018/CatYoung018)
